@@ -632,11 +632,6 @@ footer
         padding: 235px 60px 70px 60px; /* Top padding adjusted for fixed header height */
         gap: 0px;
     }
-    .Box-Middle ul li a
-    {
-    font-size: 14px;
-    margin-right: 10px;
-    }
     .Box-Middle ul{
     gap: 8px;
     margin-left: 25px;
